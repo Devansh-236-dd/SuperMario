@@ -1,0 +1,11 @@
+{
+  "title": "Super Mario — The Browser Arcade",
+  "description": "A little jump. A big adventure. Play a fan-made Mario platformer with three worlds, coins, power-ups, and plenty of nostalgia.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
